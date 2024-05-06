@@ -1,0 +1,127 @@
+{
+  "rides": [
+    {
+      "id": "1",
+      "name": "Galactic Gauntlet",
+      "location": {
+        "lat": 52.59381956026162,
+        "lng": -2.285260641038522
+      },
+      "description": "A thrilling roller coaster ride through space, filled with loops, twists and turns.",
+      "image": "https://s.abcnews.com/images/GMA/epcot-ride-guardian-galaxy-05-gty-jt-220506_1651866351043_hpMain_16x9_992.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Jungle Safari Expedition",
+      "location": {
+        "lat": 52.589674326396654,
+        "lng": -2.2902817361951704
+      },
+      "description": "An exciting jeep ride through the jungle, filled with animatronic animals and lush greenery.",
+      "image": "https://www.wmsp.co.uk/fileadmin/_processed_/6/4/csm_hero-rhino-coaster_c6b81c3b6d.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Dragon's Lair",
+      "location": {
+        "lat": 52.59775586587139,
+        "lng": -2.3019976248940175
+      },
+      "description": "A dark and spooky roller coaster ride through a dragon-infested cave.",
+      "image": "https://thirdeyetraveller.com/wp-content/uploads/Disneyland-Dragon-under-the-castle-17.jpg"
+    },
+    {
+      "id": "4",
+      "name": "Pirate's Plunder Ship",
+      "location": {
+        "lat": 52.59744305981822,
+        "lng": -2.2952170006653807
+      },
+      "description": "A thrilling boat ride through a pirate-infested island, filled with treasure and danger.",
+      "image":"https://www.draytonmanor.co.uk/fileadmin/user_upload/drayton_manor/bounty-pirate-ship-slide1.jpg"
+    },
+    {
+      "id": "5",
+      "name": "Fairy Tale Fantasy Castle",
+      "location": {
+        "lat": 52.57966157837099,
+        "lng": -2.293457471593393
+      },
+      "description": "A magical castle filled with fairy tale characters, princesses and knights.",
+      "image":"https://attractionsmagazine.com/wp-content/uploads/2019/10/Efteling-Six-Swans-FP.jpg"
+    },
+    {
+      "id": "6",
+      "name": "Wild West Shootout",
+      "location": {
+        "lat": 52.58487683672333,
+        "lng": -2.307447873482858
+      },
+      "description": "An action-packed shooting gallery ride through the wild west, filled with bandits and cowboys.",
+      "image": "https://www.themeparkreview.com/parks/pimages/Drayton_Manor/Theme_Park_Reviews_2010_UK_Trip/draytonmanor_075.jpg"
+    },
+    {
+      "id": "7",
+      "name": "Dinosaur Discovery Expedition",
+      "location": {
+        "lat": 52.60522201052105,
+        "lng": -2.279203477845536
+      },
+      "description": "An educational ride through a prehistoric jungle, filled with life-sized dinosaur replicas and fossils.",
+      "image": "https://blooloop.com/wp-content/uploads/2018/03/lagotronics-projects-dino-attack-conny-land-dinosaur.jpg"
+
+    },
+    {
+      "id": "8",
+      "name": "Enchanted Carousel",
+      "location": {
+        "lat": 52.60050391546476,
+        "lng": -2.322840637883573
+      },
+      "description": "A magical carousel ride with beautifully decorated horses and chariots.",
+      "image":"https://blooloop.com/wp-content/uploads/2018/03/lagotronics-projects-dino-attack-conny-land-dinosaur.jpg"
+    }
+  ],
+  "gardens": [
+    {
+      "id": "1",
+      "name": "Botanical Garden",
+      "description": "A garden within the theme park fillled with exotic plant, flowers and trees.",
+      "location": {
+        "lat": 52.595158584453515,
+        "lng": -2.324054467091863
+      },
+      "image": "https://cdn.audleytravel.com/1024/731/79/425730-the-butchart-gardens.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Jurassic Park",
+      "description": "Prehistoric garden filled with life-sized dinosaur replicas, fossils and giant plants such as ferns and palm trees.",
+      "location": {
+        "lat": 52.60949734519647,
+        "lng": -2.293223205201289
+      },
+      "image": "https://www.birdland.co.uk/wp-content/uploads/2016/06/Jurassic-Journey-1.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Fairy Tale Forest",
+      "description": "A garden filled with story book figure, mini cottage, trees, mushrooms, flowers and night lights.",
+      "location": {
+        "lat": 52.57768033063657,
+        "lng": -2.2643340700439794
+      },
+      "image": "https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/a-fairy-tale-garden-eva-lechner.jpg"
+    },
+    {
+      "id": "4",
+      "name": "Galaxy Garden",
+      "description": "An extraordinary garden filled with alien plants, glowing flowers and trees, and space-themed decorations. All found underground.",
+      "location": {
+        "lat": 52.571934102607905,
+        "lng": -2.2972375100505733
+      },
+      "image":"https://www.disneytouristblog.com/wp-content/uploads/2022/05/dusk-guardians-galaxy-cosmic-rewind-epcot-disney-world-1105.jpg"
+    }
+  ]
+}
